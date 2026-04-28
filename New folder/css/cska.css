@@ -1,0 +1,34 @@
+body{
+    color: cyan;
+    background-color: #333;
+    font-size: large;
+    font-style: italic;
+}
+ol,ul{
+    list-style: none;
+    text-decoration: none;
+    list-style-type: none;  
+    text-transform: capitalize; 
+    text-transform: lowercase;
+    text-transform: initial;
+
+}
+ol{
+    list-style-image: url(images/momy.jpeg);
+}
+nav{
+    background-color: rgb(33, 233, 233);
+    text-align: center;
+    font-size: large;
+
+}
+a{text-decoration: none;
+text-align: right;}
+.caska{
+    background-color: brown;
+}
+#momy{
+    background-color: rgb(183, 138, 79);
+}
+p{background-color: brown;}
+div footer h1 p{background-color: hotpink;}
